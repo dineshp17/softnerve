@@ -1,5 +1,5 @@
 # softnerve
-#Automated Book Publication Workflow
+Automated Book Publication Workflow
 Key Capabilities:
 
 1.Scraping & Screenshots: Fetch content and save screenshots from https://en.wikisource.org/wiki/The_Gates_of_Morning/Book_1/Chapter_1.
